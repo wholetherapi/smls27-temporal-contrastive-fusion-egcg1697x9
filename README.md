@@ -16,9 +16,9 @@
 
 ## Repository Status
 
-The code, data and experiment scripts described in this paper have been
-released in full and are available in this repository for artifact
-evaluation.
+This repository is reserved for the artifact. The code, data and experiment
+scripts are still being finalised and will be released here once the
+camera-ready version is complete.
 
 ## Contents
 
